@@ -1,4 +1,6 @@
-strands-agents
+SQLAlchemy
+chainlit
 openai
 python-dotenv
 requests
+strands-agents
