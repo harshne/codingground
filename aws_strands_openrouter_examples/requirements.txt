@@ -1,0 +1,2 @@
+strands-agents[litellm]
+openrouter-api
